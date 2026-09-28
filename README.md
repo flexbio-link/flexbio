@@ -6,7 +6,10 @@
 
 A free platform for building deeply customizable bio pages — from a clean link page to a full personal profile with music, live widgets, effects, analytics and portfolio sections.
 
-[website](https://flexbio.link) · [documentation](https://help.flexbio.link) · [discord](https://discord.gg/9uMvPApkfH) · [status](https://status.flexbio.link)
+[![Website](https://img.shields.io/badge/Website-flexbio.link-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://flexbio.link)
+[![Documentation](https://img.shields.io/badge/Documentation-help.flexbio.link-0d1117?style=for-the-badge&logo=gitbook&logoColor=white)](https://help.flexbio.link)
+[![Discord](https://img.shields.io/badge/Discord-Community-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.gg/9uMvPApkfH)
+[![Status](https://img.shields.io/badge/Status-Services-0d1117?style=for-the-badge&logo=statuspage&logoColor=white)](https://status.flexbio.link)
 
 <br>
 
@@ -84,7 +87,7 @@ Your profile can be kept minimal or built into a fully customized page.
 
 Built-in animated backgrounds include styles such as Aurora, Silk, Plasma, Liquid Flow, Metallic Swirl, Neural Tunnel, Spectral Clouds, Meteors and Lightspeed.
 
-[profile customization docs](https://help.flexbio.link/customization/profile-info)
+[![Profile docs](https://img.shields.io/badge/Profile-Documentation-161b22?style=flat-square&logo=gitbook&logoColor=white)](https://help.flexbio.link/customization/profile-info)
 
 </details>
 
@@ -110,7 +113,7 @@ Control the visual system of the entire profile instead of being locked into a t
 - monochrome icon mode
 - glass-style card appearance
 
-[appearance docs](https://help.flexbio.link/customization/appearance)
+[![Appearance docs](https://img.shields.io/badge/Appearance-Documentation-161b22?style=flat-square&logo=gitbook&logoColor=white)](https://help.flexbio.link/customization/appearance)
 
 </details>
 
@@ -194,7 +197,7 @@ Effects are optional and can be mixed to make a profile subtle, animated or comp
 
 The profile view counter can also use animated styles such as Count Up, Digit Roll, Slot Roll, Decode and Flip Clock.
 
-[effects docs](https://help.flexbio.link/customization/effects)
+[![Effects docs](https://img.shields.io/badge/Effects-Documentation-161b22?style=flat-square&logo=gitbook&logoColor=white)](https://help.flexbio.link/customization/effects)
 
 </details>
 
@@ -216,7 +219,7 @@ Linux          Flexbio Classic
 
 Entry speed is adjustable, and the profile itself can use a separate entrance animation after the gate finishes.
 
-[entry docs](https://help.flexbio.link/customization/entry)
+[![Entry docs](https://img.shields.io/badge/Entry-Documentation-161b22?style=flat-square&logo=gitbook&logoColor=white)](https://help.flexbio.link/customization/entry)
 
 </details>
 
@@ -239,7 +242,7 @@ portfolio          full-page portfolio layout
 
 You can also control profile width, zoom, spacing, avatar shape, badge layout and the position of individual profile elements.
 
-[layout docs](https://help.flexbio.link/customization/layout)
+[![Layout docs](https://img.shields.io/badge/Layouts-Documentation-161b22?style=flat-square&logo=gitbook&logoColor=white)](https://help.flexbio.link/customization/layout)
 
 ---
 
@@ -256,7 +259,7 @@ Build it from reorderable modules:
 - footer and contact information
 - up to ten custom Markdown sections
 
-[portfolio docs](https://help.flexbio.link/customization/portfolio)
+[![Portfolio docs](https://img.shields.io/badge/Portfolio-Documentation-161b22?style=flat-square&logo=gitbook&logoColor=white)](https://help.flexbio.link/customization/portfolio)
 
 ---
 
@@ -278,7 +281,7 @@ Available player styles include Bottom of Card, Top Right, Pill, Rounded, Card, 
 
 Profiles can also use a cover-art backdrop and an audio visualizer that reacts to playback.
 
-[music docs](https://help.flexbio.link/customization/music)
+[![Music docs](https://img.shields.io/badge/Music-Documentation-161b22?style=flat-square&logo=gitbook&logoColor=white)](https://help.flexbio.link/customization/music)
 
 ---
 
@@ -304,7 +307,7 @@ The link wizard can recognize supported platforms and build URLs from usernames.
 
 Socials use a compact icon row and support both **Link** mode and **Text** mode, which is useful for Discord tags, game usernames and other values that should be copied rather than opened.
 
-[links docs](https://help.flexbio.link/customization/links) · [socials docs](https://help.flexbio.link/customization/socials)
+[![Links docs](https://img.shields.io/badge/Links-Documentation-161b22?style=flat-square&logo=gitbook&logoColor=white)](https://help.flexbio.link/customization/links) [![Socials docs](https://img.shields.io/badge/Socials-Documentation-161b22?style=flat-square&logo=gitbook&logoColor=white)](https://help.flexbio.link/customization/socials)
 
 ---
 
@@ -336,7 +339,7 @@ Widgets bring live platform data directly into the profile.
 
 Widgets inherit the profile design and have their own card, radius, avatar-shape and decoration controls.
 
-[widgets docs](https://help.flexbio.link/customization/widgets)
+[![Widgets docs](https://img.shields.io/badge/Widgets-Documentation-161b22?style=flat-square&logo=gitbook&logoColor=white)](https://help.flexbio.link/customization/widgets)
 
 ---
 
@@ -355,7 +358,7 @@ preview image
 image size
 ```
 
-[embeds docs](https://help.flexbio.link/customization/embeds) · [metadata docs](https://help.flexbio.link/customization/metadata)
+[![Embeds docs](https://img.shields.io/badge/Embeds-Documentation-161b22?style=flat-square&logo=gitbook&logoColor=white)](https://help.flexbio.link/customization/embeds) [![Metadata docs](https://img.shields.io/badge/Metadata-Documentation-161b22?style=flat-square&logo=gitbook&logoColor=white)](https://help.flexbio.link/customization/metadata)
 
 ---
 
@@ -371,7 +374,7 @@ Badges appear next to the username and can come from different sources.
 
 Badge order, colors, gradients and icon shimmer can be customized from the dashboard.
 
-[badges docs](https://help.flexbio.link/customization/badges)
+[![Badges docs](https://img.shields.io/badge/Badges-Documentation-161b22?style=flat-square&logo=gitbook&logoColor=white)](https://help.flexbio.link/customization/badges)
 
 ---
 
@@ -395,7 +398,12 @@ Test layouts, fonts, effects, backgrounds, decorations and colors using the real
 **leaderboard**  
 Public profiles can appear on separate Views and Clicks leaderboards.
 
-[analytics](https://help.flexbio.link/tools/analytics) · [image host](https://help.flexbio.link/tools/image-host) · [automations](https://help.flexbio.link/tools/automations) · [templates](https://help.flexbio.link/tools/templates) · [playground](https://help.flexbio.link/tools/playground) · [leaderboard](https://help.flexbio.link/tools/leaderboard)
+[![Analytics](https://img.shields.io/badge/Analytics-Docs-161b22?style=flat-square&logo=googleanalytics&logoColor=white)](https://help.flexbio.link/tools/analytics)
+[![Image Host](https://img.shields.io/badge/Image_Host-Docs-161b22?style=flat-square&logo=cloudinary&logoColor=white)](https://help.flexbio.link/tools/image-host)
+[![Automations](https://img.shields.io/badge/Automations-Docs-161b22?style=flat-square&logo=githubactions&logoColor=white)](https://help.flexbio.link/tools/automations)
+[![Templates](https://img.shields.io/badge/Templates-Docs-161b22?style=flat-square&logo=files&logoColor=white)](https://help.flexbio.link/tools/templates)
+[![Playground](https://img.shields.io/badge/Playground-Open-161b22?style=flat-square&logo=codepen&logoColor=white)](https://flexbio.link/playground)
+[![Leaderboard](https://img.shields.io/badge/Leaderboard-Docs-161b22?style=flat-square&logo=googleanalytics&logoColor=white)](https://help.flexbio.link/tools/leaderboard)
 
 ---
 
@@ -414,7 +422,7 @@ delete      remove an inactive version
 
 Your normal username URL, username subdomain and aliases always open the active version.
 
-[profile versions docs](https://help.flexbio.link/account/profiles)
+[![Profiles docs](https://img.shields.io/badge/Profile_Versions-Documentation-161b22?style=flat-square&logo=gitbook&logoColor=white)](https://help.flexbio.link/account/profiles)
 
 ---
 
@@ -428,7 +436,7 @@ Two-factor authentication supports:
 - email verification codes
 - one-time recovery codes
 
-[discord connection](https://help.flexbio.link/account/discord-connection) · [security & 2fa](https://help.flexbio.link/account/security-and-2fa)
+[![Discord connection](https://img.shields.io/badge/Discord-Connection-161b22?style=flat-square&logo=discord&logoColor=5865F2)](https://help.flexbio.link/account/discord-connection) [![Security docs](https://img.shields.io/badge/Security-2FA-161b22?style=flat-square&logo=auth0&logoColor=white)](https://help.flexbio.link/account/security-and-2fa)
 
 ---
 
@@ -450,7 +458,7 @@ Depending on the account, aliases can point to the same active profile.
 
 The dashboard also includes a share dialog with a QR code, profile preview and quick URL copying.
 
-[sharing docs](https://help.flexbio.link/getting-started/share-your-profile)
+[![Sharing docs](https://img.shields.io/badge/Sharing-Documentation-161b22?style=flat-square&logo=gitbook&logoColor=white)](https://help.flexbio.link/getting-started/share-your-profile)
 
 ---
 
@@ -467,13 +475,19 @@ The dashboard also includes a share dialog with a QR code, profile preview and q
 
 Saved profile changes go live without a separate publish step.
 
-[create your profile →](https://flexbio.link)
+[![Create your profile](https://img.shields.io/badge/Create_your_profile-flexbio.link-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://flexbio.link)
 
 ---
 
 ### links
 
-[flexbio.link](https://flexbio.link) · [help center](https://help.flexbio.link) · [discord](https://discord.gg/9uMvPApkfH) · [status](https://status.flexbio.link) · [playground](https://flexbio.link/playground) · [shop](https://flexbio.link/shop) · [marketplace](https://flexbio.link/market)
+[![Website](https://img.shields.io/badge/Website-flexbio.link-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://flexbio.link)
+[![Help Center](https://img.shields.io/badge/Help_Center-Documentation-0d1117?style=for-the-badge&logo=gitbook&logoColor=white)](https://help.flexbio.link)
+[![Discord](https://img.shields.io/badge/Discord-Community-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.gg/9uMvPApkfH)
+[![Status](https://img.shields.io/badge/Status-Services-0d1117?style=for-the-badge&logo=statuspage&logoColor=white)](https://status.flexbio.link)
+[![Playground](https://img.shields.io/badge/Playground-Open-0d1117?style=for-the-badge&logo=codepen&logoColor=white)](https://flexbio.link/playground)
+[![Shop](https://img.shields.io/badge/Shop-flexbio.link-0d1117?style=for-the-badge&logo=shopify&logoColor=white)](https://flexbio.link/shop)
+[![Marketplace](https://img.shields.io/badge/Marketplace-flexbio.link-0d1117?style=for-the-badge&logo=itchdotio&logoColor=white)](https://flexbio.link/market)
 
 ---
 
