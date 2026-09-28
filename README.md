@@ -2,439 +2,484 @@
 
 # flexbio.link
 
-### One profile. Your links, your style, your internet identity.
+`your profile, without the template feeling.`
 
-Build a profile that can be as simple as a few links or as detailed as a full personal page with music, live widgets, animated backgrounds, effects, analytics and a portfolio.
+A free platform for building deeply customizable bio pages — from a clean link page to a full personal profile with music, live widgets, effects, analytics and portfolio sections.
 
-[![Website](https://img.shields.io/badge/Website-flexbio.link-0B2B5C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://flexbio.link)
-[![Documentation](https://img.shields.io/badge/Docs-help.flexbio.link-0B2B5C?style=for-the-badge&logo=readthedocs&logoColor=white)](https://help.flexbio.link)
-[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9uMvPApkfH)
-[![Status](https://img.shields.io/badge/Status-status.flexbio.link-0B2B5C?style=for-the-badge&logo=statuspage&logoColor=white)](https://status.flexbio.link)
+[website](https://flexbio.link) · [documentation](https://help.flexbio.link) · [discord](https://discord.gg/9uMvPApkfH) · [status](https://status.flexbio.link)
 
-</div>
+<br>
 
 <a href="https://flexbio.link">
-  <img src="./assets/flexbio-preview.gif" alt="Animated flexbio.link preview" width="100%">
+  <img src="./assets/flexbio.gif" alt="flexbio.link preview" width="100%">
 </a>
-
-<div align="center">
-
-**[Create your profile](https://flexbio.link) · [Open the Help Center](https://help.flexbio.link) · [Join Discord](https://discord.gg/9uMvPApkfH)**
 
 </div>
 
 ---
 
-## What is flexbio.link?
+### about
 
-**flexbio.link** is a free link-in-bio platform built for people who want control over how their page looks, feels and behaves.
+**flexbio.link** is built for people who want their page to feel like their own instead of another copy of the same template.
 
-Every account gets a public profile at:
+Start with a username, avatar, bio and a few links. Then take it as far as you want — custom layouts, uploaded fonts, gradients, animated backgrounds, profile effects, music, lyrics, live platform widgets, share previews, analytics, multiple profile versions and even a full portfolio layout.
+
+The core profile builder and customization are free. Optional shop and marketplace items are extras, not requirements.
 
 ```text
-https://flexbio.link/yourname
-https://yourname.flexbio.link
+profile      flexbio.link/yourname
+subdomain    yourname.flexbio.link
+versions     up to 5 independent profiles
+storage      5 GB built-in image host
+customize    layout · colors · fonts · motion · media · widgets
 ```
 
-A profile can be a clean card with an avatar and a few links, or a complete page with custom layouts, animated backgrounds, audio, lyrics, live platform widgets, visual effects, badges, share metadata and a project portfolio.
+---
 
-Core profile creation and customization are free. The shop and marketplace contain optional extras such as badges, credits and rare identities; they are not required to build or run a profile.
+### built around your profile
+
+**identity**  
+Display name, username, Markdown bio, location, profile tags, avatar, banners, profile decorations and badges.
+
+**appearance**  
+Colors, gradients, custom fonts, glass effects, blur, brightness, card opacity, icon styling, glow and responsive layouts.
+
+**motion**  
+Entry gates, profile entrance animations, card depth effects, animated borders, cursor effects, click effects, background overlays and page effects.
+
+**content**  
+Links, socials, copyable values, music, synchronized lyrics, embeds, widgets, badges, galleries and portfolio sections.
+
+**sharing**  
+Username links, username subdomains, aliases, QR codes and custom metadata for Discord and social previews.
+
+**tools**  
+Analytics, image hosting, templates, playground, automations, leaderboard, shop and marketplace.
 
 ---
 
-## More than a list of links
+### customization
 
-| Area | What flexbio.link gives you |
-|---|---|
-| **Identity** | Display name, username, Markdown bio, location, tags, avatar, banners, decorations and profile versions. |
-| **Design** | Custom colors, gradients, fonts, glassmorphism, glow, card styling, backgrounds and responsive layouts. |
-| **Motion** | Entry gates, profile animations, card effects, page effects, cursor effects, click effects, animated borders and view-counter animations. |
-| **Content** | Links, social icons, buttons, copyable text, music, lyrics, embeds, badges, widgets and portfolio sections. |
-| **Media** | Image and video backgrounds, banner carousels, uploaded audio, custom cursors and built-in image hosting. |
-| **Sharing** | Username URLs, username subdomains, aliases, QR codes and customizable link previews. |
-| **Tools** | Analytics, templates, playground, leaderboard, automations and a 5 GB image host. |
-| **Account** | Up to five profile versions, Discord connection, email or Discord sign-in and two-factor authentication. |
+<details>
+<summary><strong>profile information & media</strong></summary>
 
----
+<br>
 
-## Profile customization
+Your profile can be kept minimal or built into a fully customized page.
 
-### Profile information and media
-
-Your profile starts with the things visitors see first:
-
-- display name with optional text effects
-- location
+- display name with text effects
 - Markdown bio
+- location
 - up to six profile tags
-- avatar with image or code-drawn decorations
-- animated top-right card decoration
-- up to three rotating profile backgrounds
-- up to three rotating banners with transition effects
-- custom cursor image
+- avatar and avatar decorations
+- animated card decorations
+- rotating backgrounds
+- rotating banners with transitions
+- uploaded image and video backgrounds
+- animated shader backgrounds
+- custom cursors
 - uploaded profile audio
+- Discord avatar integration
+- joined-date and profile-detail visibility controls
 
-Backgrounds can use your own images or video, or built-in animated shader effects such as Aurora, Silk, Plasma, Liquid Flow, Metallic Swirl, Neural Tunnel, Spectral Clouds, Meteors, Lightspeed and more.
+Built-in animated backgrounds include styles such as Aurora, Silk, Plasma, Liquid Flow, Metallic Swirl, Neural Tunnel, Spectral Clouds, Meteors and Lightspeed.
 
-[Read the profile customization docs](https://help.flexbio.link/customization/profile-info)
+[profile customization docs](https://help.flexbio.link/customization/profile-info)
 
-### Colors, fonts and card appearance
+</details>
 
-Tune the profile instead of being locked into a preset.
+<details>
+<summary><strong>colors, fonts & card styling</strong></summary>
+
+<br>
+
+Control the visual system of the entire profile instead of being locked into a theme.
 
 - accent, text, background and icon colors
-- card, display-name and accent gradients
-- built-in fonts or uploaded `.ttf`, `.otf`, `.woff` and `.woff2` fonts
-- separate font targeting for username, description or the whole profile
-- font size and letter spacing controls
-- card opacity and card blur
+- card, username and accent gradients
+- built-in fonts
+- uploaded `.ttf`, `.otf`, `.woff` and `.woff2` fonts
+- separate font targeting for username, description or the whole page
+- font size and letter spacing
+- card opacity
+- card blur
 - background blur and brightness
-- username, socials and badge glow
-- display options for joined date, monochrome icons, Discord avatar integration and more
+- username glow
+- social icon glow
+- badge glow
+- monochrome icon mode
+- glass-style card appearance
 
-[Read the appearance docs](https://help.flexbio.link/customization/appearance)
+[appearance docs](https://help.flexbio.link/customization/appearance)
 
-### Visual effects
+</details>
 
-Profiles can stay minimal or go much further.
+<details>
+<summary><strong>effects & animations</strong></summary>
 
-**Card effects:** 3D Tilt, Hover Depth, Floating Depth, Glare, 3D Pendulum and Magnetic Elements.
+<br>
 
-**Page effects:** Noise, Retro, Dots, Flying Stars, Flashing Crosses, Rain, Scanlines, Glitch and Thunder.
+Effects are optional and can be mixed to make a profile subtle, animated or completely over the top.
 
-**Background overlays:** Snowflakes, Rain, Fireflies, Bubbles, Matrix, Sparkles, Money Rain, Hearts Rain, Shooting Stars, Pixel Snow and more.
+**card effects**
 
-**Cursor effects:** Snowflakes, Rain, Image Trail, Ghost, Fairy Dust, Canvas Cursor, Fluid Cursor and Cat.
+- 3D Tilt
+- Hover Depth
+- Floating Depth
+- Glare
+- 3D Pendulum
+- Magnetic Elements
 
-**Click effects:** Sparkle, Sakura, Hearts, Confetti, Fireworks, Lightning, Snowflakes, Rainbow Glitter and Stars, with optional preset or custom click sounds.
+**page effects**
 
-**Animated borders:** Electric, Glow, Aurora, Rainbow, Pulse Glow, Shimmer, Comet, Twin Comets, Starlit and Fairy Lights.
+- Noise
+- Retro
+- Dots
+- Flying Stars
+- Flashing Crosses
+- Rain
+- Scanlines
+- Glitch
+- Thunder
 
-The view counter also has its own animation styles, including Count Up, Digit Roll, Slot Roll, Decode and Flip Clock.
+**background overlays**
 
-[Read the visuals docs](https://help.flexbio.link/customization/effects)
+- Snowflakes
+- Rain
+- Fireflies
+- Bubbles
+- Matrix
+- Sparkles
+- Money Rain
+- Hearts Rain
+- Shooting Stars
+- Pixel Snow
 
-### Entry experience
+**cursor effects**
 
-Choose what happens before the profile appears.
+- Snowflakes
+- Rain
+- Image Trail
+- Ghost
+- Fairy Dust
+- Canvas Cursor
+- Fluid Cursor
+- Cat
 
-Available entry gates include:
+**click effects**
 
-`Classic` · `Split` · `Slide Up` · `Slide Right` · `Katana` · `Spotlight` · `Lens` · `Terminal` · `Boot` · `Linux` · `Flexbio Classic`
+- Sparkle
+- Sakura
+- Hearts
+- Confetti
+- Fireworks
+- Lightning
+- Snowflakes
+- Rainbow Glitter
+- Stars
+- optional preset or custom click sounds
 
-Entry speed is adjustable, and the profile itself can use a separate entrance animation.
+**animated borders**
 
-[Read the entry docs](https://help.flexbio.link/customization/entry)
+- Electric
+- Glow
+- Aurora
+- Rainbow
+- Pulse Glow
+- Shimmer
+- Comet
+- Twin Comets
+- Starlit
+- Fairy Lights
+
+The profile view counter can also use animated styles such as Count Up, Digit Roll, Slot Roll, Decode and Flip Clock.
+
+[effects docs](https://help.flexbio.link/customization/effects)
+
+</details>
+
+<details>
+<summary><strong>entry experience</strong></summary>
+
+<br>
+
+Choose what visitors see before the profile opens.
+
+Available entry styles include:
+
+```text
+Classic        Split          Slide Up
+Slide Right    Katana         Spotlight
+Lens           Terminal       Boot
+Linux          Flexbio Classic
+```
+
+Entry speed is adjustable, and the profile itself can use a separate entrance animation after the gate finishes.
+
+[entry docs](https://help.flexbio.link/customization/entry)
+
+</details>
 
 ---
 
-## Layouts and portfolio
+### layouts
 
-flexbio.link includes eight profile layouts:
+Profiles are not limited to one card structure.
 
-| Layout | Best suited for |
-|---|---|
-| **Horizontal** | Classic avatar-left profile card. |
-| **Horizontal Right** | Mirrored horizontal layout. |
-| **Vertical** | Centered, stacked profile. |
-| **Elevated** | Avatar raised above the card. |
-| **Open Widgets** | Widgets and music outside the main card. |
-| **Tabs** | Multiple sections inside one switchable card. |
-| **Sidebar** | Main content next to a fixed side section. |
-| **Portfolio** | A full-page personal or creator portfolio. |
+```text
+horizontal         classic avatar-left layout
+horizontal right   mirrored horizontal layout
+vertical           centered stacked profile
+elevated           avatar raised above the card
+open widgets       widgets and music outside the main card
+tabs               multiple sections inside one profile
+sidebar            main content with a fixed side section
+portfolio          full-page portfolio layout
+```
 
-You can also control content width, profile zoom, internal spacing, avatar shape, badge layout and the positions of profile elements.
+You can also control profile width, zoom, spacing, avatar shape, badge layout and the position of individual profile elements.
 
-The **Portfolio** layout replaces the normal card with a full page built from reorderable modules:
+[layout docs](https://help.flexbio.link/customization/layout)
+
+---
+
+### portfolio
+
+The **portfolio** layout turns the profile into a full personal page instead of a compact bio card.
+
+Build it from reorderable modules:
 
 - About Me with Markdown
-- Projects with images, links and technologies
+- projects with images, links and technologies
 - Skills & Stack groups
 - uploaded music
-- footer and contact details
+- footer and contact information
 - up to ten custom Markdown sections
 
-[Layout documentation](https://help.flexbio.link/customization/layout) · [Portfolio documentation](https://help.flexbio.link/customization/portfolio)
+[portfolio docs](https://help.flexbio.link/customization/portfolio)
 
 ---
 
-## Music and audio
+### music
 
-Upload your own tracks and turn the profile into a music experience instead of a static page.
+Upload your own tracks and turn the profile into a proper music experience.
 
-Each track can have:
+Each track can include:
 
-- a custom title
-- cover artwork
-- synchronized `.lrc` lyrics or plain lyrics
-- enabled / disabled state
-- shuffle support
+```text
+title        custom track name
+cover        custom artwork
+lyrics       synchronized .lrc or plain lyrics
+state        enabled / disabled
+playback     shuffle support
+```
 
-Player styles include:
+Available player styles include Bottom of Card, Top Right, Pill, Rounded, Card, Playlist, Lyrics, Lyrics Top Right, Ticker and Floating.
 
-`Bottom of card` · `Top Right` · `Pill` · `Rounded` · `Card` · `Playlist` · `Lyrics` · `Lyrics (top right)` · `Ticker` · `Floating`
+Profiles can also use a cover-art backdrop and an audio visualizer that reacts to playback.
 
-There is also a cover-art backdrop and an audio visualizer that reacts to playback.
-
-[Read the music and audio docs](https://help.flexbio.link/customization/music)
+[music docs](https://help.flexbio.link/customization/music)
 
 ---
 
-## Links and socials
+### links & socials
 
-Links can behave like normal buttons, but they do not have to.
+Links can be regular buttons, but they can also do more than open a URL.
 
 A link can:
 
-- open a URL
+- open an external page
 - copy a value to the clipboard
 - open an email client
 - display copyable text
-- render as a compact icon or full-width button
-- use a platform icon, an Iconify icon or your own uploaded image
-- use an image as the full button background
-- include up to six small tags
-- be reordered and grouped
+- render as an icon or a full-width button
+- use platform icons
+- use Iconify icons
+- use your own uploaded icon
+- use an image as the entire button background
+- contain up to six small tags
 - inherit global button colors, borders and alignment
 
-The link wizard can recognize platforms automatically or build the correct URL from a username.
+The link wizard can recognize supported platforms and build URLs from usernames.
 
-Socials use a compact icon row and can work in either **Link** mode or **Text** mode, which is useful for Discord tags, game names and anything a visitor should copy rather than open.
+Socials use a compact icon row and support both **Link** mode and **Text** mode, which is useful for Discord tags, game usernames and other values that should be copied rather than opened.
 
-[Links documentation](https://help.flexbio.link/customization/links) · [Socials documentation](https://help.flexbio.link/customization/socials)
+[links docs](https://help.flexbio.link/customization/links) · [socials docs](https://help.flexbio.link/customization/socials)
 
 ---
 
-## Live widgets
+### widgets
 
-Widgets pull public data from other platforms and display it directly on the profile.
+Widgets bring live platform data directly into the profile.
 
-Supported widget types include:
-
-| Platform / widget | What it can show |
+| widget | what it can show |
 |---|---|
-| **Discord** | Presence and Discord profile information. |
-| **Spotify** | What you are listening to. |
-| **Last.fm** | Recent scrobbles. |
-| **Music Player** | Your uploaded flexbio audio. |
-| **Roblox** | Roblox profile information. |
-| **Steam** | Steam profile information. |
-| **NameMC** | Minecraft profile information. |
-| **GitHub** | GitHub profile and activity. |
-| **YouTube** | Channel information. |
-| **Twitch** | Channel, follower count and live status. |
-| **TikTok** | TikTok profile information. |
-| **Telegram** | Telegram profile information. |
-| **Weather** | Weather for a selected location. |
-| **Timezone** | Local time. |
-| **Chess.com** | Chess ratings. |
-| **Medal** | A selected Medal clip. |
-| **Showcase** | Selected movies, games or tracks. |
-| **Gallery** | Up to eight photos or short videos in a carousel. |
-| **flexbio Vault** | Owned items and spending information. |
+| **Discord** | presence and Discord profile information |
+| **Spotify** | currently playing music |
+| **Last.fm** | recent scrobbles |
+| **Music Player** | uploaded flexbio audio |
+| **Roblox** | Roblox profile information |
+| **Steam** | Steam profile information |
+| **NameMC** | Minecraft profile information |
+| **GitHub** | GitHub profile and activity |
+| **YouTube** | channel information |
+| **Twitch** | channel details, followers and live status |
+| **TikTok** | TikTok profile information |
+| **Telegram** | Telegram profile information |
+| **Weather** | weather for a selected location |
+| **Timezone** | local time |
+| **Chess.com** | chess ratings |
+| **Medal** | a selected Medal clip |
+| **Showcase** | selected movies, games or tracks |
+| **Gallery** | photo and short-video carousel |
+| **flexbio Vault** | owned items and spending information |
 
 Widgets inherit the profile design and have their own card, radius, avatar-shape and decoration controls.
 
-[Read the widget docs](https://help.flexbio.link/customization/widgets)
+[widgets docs](https://help.flexbio.link/customization/widgets)
 
 ---
 
-## Embeds and share previews
+### embeds & share previews
 
-Use playable media embeds for:
+Profiles can include playable embeds for Spotify and SoundCloud content.
 
-- Spotify tracks
-- Spotify playlists
-- SoundCloud tracks
-- SoundCloud playlists
+You can also control how your flexbio URL looks when somebody pastes it into apps that support rich link previews.
 
-When your flexbio URL is shared, you can also control the metadata other apps read:
+```text
+site name
+title
+description
+accent color
+preview image
+image size
+```
 
-- site name
-- title
-- description
-- accent color
-- preview image
-- image size
-
-That lets the same profile look intentional when pasted into Discord, X, Telegram, iMessage and other apps that render link previews.
-
-[Embeds documentation](https://help.flexbio.link/customization/embeds) · [Metadata documentation](https://help.flexbio.link/customization/metadata)
+[embeds docs](https://help.flexbio.link/customization/embeds) · [metadata docs](https://help.flexbio.link/customization/metadata)
 
 ---
 
-## Badges
+### badges
 
-Badges appear next to your username and can come from several sources:
+Badges appear next to the username and can come from different sources.
 
 - system badges
 - seasonal badges
-- custom badges you create yourself
+- custom badges
 - Discord-connected roles and events
-- optional shop purchases
+- optional shop items
 
 Badge order, colors, gradients and icon shimmer can be customized from the dashboard.
 
-[Read the badges docs](https://help.flexbio.link/customization/badges)
+[badges docs](https://help.flexbio.link/customization/badges)
 
 ---
 
-## Built-in tools
+### built-in tools
 
-### Analytics
+**analytics**  
+See profile views and clicks over time, top countries, device types, most-clicked socials, lifetime clicks and click-through rate.
 
-See aggregate profile performance without exposing individual visitors.
+**image host**  
+A built-in 5 GB media host for images and video, with folders, gallery management and clean direct links. Individual Image Host uploads can be up to 75 MB.
 
-Analytics include:
+**automations**  
+Automatically organize new Image Host uploads using rules such as MIME type.
 
-- profile views and clicks over time
-- 7 day, 30 day, 3 month and 6 month chart ranges
-- top countries
-- visitor device types
-- most-clicked social icons
-- lifetime click totals and click-through rate in account stats
+**templates**  
+Browse community templates, favorite them, apply selected parts of a design or publish your own setup.
 
-[Analytics documentation](https://help.flexbio.link/tools/analytics)
+**playground**  
+Test layouts, fonts, effects, backgrounds, decorations and colors using the real profile renderer without changing the live profile.
 
-### Image Host
+**leaderboard**  
+Public profiles can appear on separate Views and Clicks leaderboards.
 
-Every account includes a built-in file host for profile assets, screenshots and other media.
-
-- PNG, JPEG, GIF, WebP and SVG images
-- MP4, WebM, MOV, MKV and M4V video
-- up to 75 MB per file in the Image Host
-- 5 GB total account storage
-- folders and gallery management
-- clean direct links
-
-[Image Host documentation](https://help.flexbio.link/tools/image-host)
-
-### Automations
-
-Create rules that automatically file new Image Host uploads into folders based on properties such as MIME type.
-
-[Automations documentation](https://help.flexbio.link/tools/automations)
-
-### Templates
-
-Browse community templates, favorite them, apply only selected parts of a design, or publish your own profile configuration for other people.
-
-[Templates documentation](https://help.flexbio.link/tools/templates)
-
-### Playground
-
-Test customization options with the real profile renderer without changing your live page.
-
-Use it to experiment with fonts, layouts, effects, backgrounds, decorations, colors and more before applying anything.
-
-[Playground documentation](https://help.flexbio.link/tools/playground)
-
-### Leaderboard
-
-Public profiles can be viewed through separate **Views** and **Clicks** leaderboards.
-
-[Leaderboard documentation](https://help.flexbio.link/tools/leaderboard)
+[analytics](https://help.flexbio.link/tools/analytics) · [image host](https://help.flexbio.link/tools/image-host) · [automations](https://help.flexbio.link/tools/automations) · [templates](https://help.flexbio.link/tools/templates) · [playground](https://help.flexbio.link/tools/playground) · [leaderboard](https://help.flexbio.link/tools/leaderboard)
 
 ---
 
-## Multiple profile versions
+### multiple profiles
 
 One account can keep **up to five independent profile versions**.
 
-You can:
+```text
+create      start a separate profile setup
+duplicate   clone an existing version
+rename      keep private names for versions
+activate    choose which version is public
+reset       clear an inactive version
+delete      remove an inactive version
+```
 
-- create a clean profile version
-- duplicate an existing setup
-- rename profile versions privately
-- switch which version is active
-- reset or delete inactive versions
+Your normal username URL, username subdomain and aliases always open the active version.
 
-Your public username URL, username subdomain and optional alias always open the currently active version.
-
-[Read the profiles docs](https://help.flexbio.link/account/profiles)
+[profile versions docs](https://help.flexbio.link/account/profiles)
 
 ---
 
-## Discord integration and account security
+### account & security
 
-Connect Discord to use Discord sign-in, Discord profile features and role / badge synchronization.
+Connect Discord for Discord sign-in, Discord profile features and role or badge synchronization.
 
-For account security, flexbio.link supports two-factor authentication using:
+Two-factor authentication supports:
 
 - TOTP authenticator apps
 - email verification codes
 - one-time recovery codes
 
-[Discord connection documentation](https://help.flexbio.link/account/discord-connection) · [Security and 2FA documentation](https://help.flexbio.link/account/security-and-2fa)
+[discord connection](https://help.flexbio.link/account/discord-connection) · [security & 2fa](https://help.flexbio.link/account/security-and-2fa)
 
 ---
 
-## Sharing your profile
+### sharing
 
-The main URL is all you need:
+Every profile has a normal username URL:
 
 ```text
 https://flexbio.link/yourname
 ```
 
-The username subdomain reaches the same active profile:
+and a username subdomain:
 
 ```text
 https://yourname.flexbio.link
 ```
 
-Depending on your account, aliases can also point to the same page.
+Depending on the account, aliases can point to the same active profile.
 
-The dashboard includes a share dialog with a QR code, a direct profile preview and one-click URL copying.
+The dashboard also includes a share dialog with a QR code, profile preview and quick URL copying.
 
-[Read the sharing docs](https://help.flexbio.link/getting-started/share-your-profile)
+[sharing docs](https://help.flexbio.link/getting-started/share-your-profile)
 
 ---
 
-## Getting started
+### start
 
-1. Open **[flexbio.link](https://flexbio.link)**.
-2. Create an account with email or Discord.
-3. Claim your username.
-4. Add your profile information.
-5. Add links and socials.
-6. Choose a layout and customize the design.
-7. Add music, widgets, effects or a portfolio if you want them.
-8. Share your profile.
+```text
+01  create an account
+02  claim your username
+03  build your profile
+04  add links, socials, music or widgets
+05  choose a layout and style it
+06  share the link
+```
 
 Saved profile changes go live without a separate publish step.
 
----
-
-## Free by default
-
-Creating, running and personalizing a flexbio.link profile is free.
-
-Optional purchases exist for extras in the **Shop** and **Marketplace**, including certain badges, Flexbio Credits, rare usernames, low UIDs and unique aliases. None of those purchases are required to use the profile builder and customization features.
-
-[Shop documentation](https://help.flexbio.link/tools/shop) · [Marketplace documentation](https://help.flexbio.link/tools/marketplace)
+[create your profile →](https://flexbio.link)
 
 ---
 
-## Resources
+### links
 
-| Resource | Link |
-|---|---|
-| Website | [flexbio.link](https://flexbio.link) |
-| Help Center | [help.flexbio.link](https://help.flexbio.link) |
-| System Status | [status.flexbio.link](https://status.flexbio.link) |
-| Discord | [discord.gg/9uMvPApkfH](https://discord.gg/9uMvPApkfH) |
-| Playground | [flexbio.link/playground](https://flexbio.link/playground) |
-| Shop | [flexbio.link/shop](https://flexbio.link/shop) |
-| Marketplace | [flexbio.link/market](https://flexbio.link/market) |
+[flexbio.link](https://flexbio.link) · [help center](https://help.flexbio.link) · [discord](https://discord.gg/9uMvPApkfH) · [status](https://status.flexbio.link) · [playground](https://flexbio.link/playground) · [shop](https://flexbio.link/shop) · [marketplace](https://flexbio.link/market)
 
 ---
 
 <div align="center">
 
-### Everything should be free.
-
-Build a profile that feels like yours.
+`everything should be free.`
 
 **[flexbio.link](https://flexbio.link)**
 
