@@ -8,7 +8,7 @@ A home for your links, music, socials and everything that makes you **you**.
 Designed your way. Free to create and customize.
 
 <p>
-  <a href="https://flexbio.link"><img src="./assets/create-profile.png" alt="Create your profile" height="43"></a>
+  <a href="https://flexbio.link"><img src="./assets/create-profile-no-arrow.png" alt="Create your profile" height="43"></a>
 </p>
 
 <p>
@@ -63,7 +63,7 @@ Claim your username, add what matters, customize every detail and share your pag
 
 <div align="center">
 
-<a href="https://flexbio.link"><img src="./assets/create-profile.png" alt="Create your profile at flexbio.link" height="43"></a>
+<a href="https://flexbio.link"><img src="./assets/create-profile-no-arrow.png" alt="Create your profile at flexbio.link" height="43"></a>
 
 <p>
   <a href="https://flexbio.link/compare">Explore features</a>
