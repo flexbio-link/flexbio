@@ -1,114 +1,143 @@
 <div align="center">
 
+<img src="./assets/icons/flexbio-symbol.svg" alt="flexbio" width="60" />
+
 # flexbio.link
 
-**Your link in bio should look like you.**
+### your profile, without the template feeling.
 
-Build a profile that goes beyond a list of links — with your own layout, music, live widgets, visuals, and personality.
-
-**Free to create. Free to customize. No forced branding.**
+Build a link-in-bio page that actually feels like **you** — with custom layouts, music, live widgets, motion, analytics and even a full portfolio layout.
 
 <p>
-  <a href="https://flexbio.link"><img alt="Create your profile" src="https://img.shields.io/badge/Create_your_profile-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://help.flexbio.link"><img alt="Documentation" src="https://img.shields.io/badge/Documentation-17213A?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
-  <a href="https://discord.gg/9uMvPApkfH"><img alt="Join Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://flexbio.link"><img src="./assets/icons/globe.svg" alt="Website" width="14" /> Website</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://help.flexbio.link"><img src="./assets/icons/book.svg" alt="Docs" width="14" /> Documentation</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://discord.gg/9uMvPApkfH"><img src="./assets/icons/discord.svg" alt="Discord" width="14" /> Discord</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://status.flexbio.link"><img src="./assets/icons/status.svg" alt="Status" width="14" /> Status</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://flexbio.link/compare"><img src="./assets/icons/compare.svg" alt="Compare" width="14" /> Compare</a>
 </p>
 
-<a href="./assets/flexbio-ad-16x9.mp4" title="Watch the flexbio.link showcase video">
-  <img src="./assets/flexbio-thumbnail-youtube-1280x720.png" alt="flexbio.link — Your link in bio should look like you. A customized mobile bio page on a dark blue background." width="100%" />
+<a href="./assets/flexbio-ad-16x9.mp4" title="Open the full showcase video">
+  <img src="./assets/flexbio-showcase-preview.gif" alt="Animated preview of the flexbio.link showcase video" width="100%" />
 </a>
 
-<sub>▶ Click the banner to watch the 27-second showcase</sub>
+<sub><strong>Preview not enough?</strong> Click the animation above to open the full 27-second showcase video.</sub>
 
 </div>
 
-<br>
+---
 
 ## One link. All of you.
 
-Your profile shouldn't look like everyone else's. Start with a username, a bio, and a few links. Then make the entire experience your own — from the first animation to the last detail.
+Your profile should not look like everyone else's.
 
-No premium plan is required to unlock profile customization. Optional badges, Credits, and marketplace items are separate extras.
+Start with a username, avatar, bio and links. Then take it further with custom layouts, fonts, backgrounds, music, widgets, animations, share previews and analytics — all from one dashboard.
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🎨 Your design, your rules</h3>
-      Choose from different profile layouts, including a full portfolio. Set custom colors, gradients, fonts, cards, banners, and backgrounds.
+    <td width="33%" valign="top">
+      <img src="./assets/icons/palette.svg" alt="Appearance" width="18" />
+      <strong> Appearance</strong><br>
+      Colors, gradients, custom fonts, glass cards, banners, backgrounds and profile effects.
     </td>
-    <td width="50%" valign="top">
-      <h3>✨ Every detail can move</h3>
-      Add entrance screens, animated backgrounds, username effects, interactive cards, cursor trails, click effects, and glowing borders.
+    <td width="33%" valign="top">
+      <img src="./assets/icons/motion.svg" alt="Motion" width="18" />
+      <strong> Motion</strong><br>
+      Entrance screens, animated borders, cursor effects, click effects and interactive profile depth.
     </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3>🎧 A profile with a soundtrack</h3>
-      Upload music, select a player style, display synchronized lyrics, and bring tracks to life with an audio visualizer.
-    </td>
-    <td valign="top">
-      <h3>🌐 Your world, connected</h3>
-      Bring in Discord presence, Spotify, GitHub, YouTube, Twitch, TikTok, gaming profiles, clocks, weather, and more through live widgets.
+    <td width="33%" valign="top">
+      <img src="./assets/icons/music.svg" alt="Music" width="18" />
+      <strong> Music</strong><br>
+      Upload tracks, choose player styles, add lyrics and bring the profile to life with audio visuals.
     </td>
   </tr>
   <tr>
-    <td valign="top">
-      <h3>🔗 More than ordinary links</h3>
-      Add social icons, custom buttons, copyable usernames, galleries, embeds, projects, and portfolio sections.
+    <td width="33%" valign="top">
+      <img src="./assets/icons/widgets.svg" alt="Widgets" width="18" />
+      <strong> Widgets</strong><br>
+      Discord, Spotify, GitHub, Twitch, TikTok, clocks, weather, galleries and more.
     </td>
-    <td valign="top">
-      <h3>📈 Know your audience</h3>
-      Explore profile views, link clicks, device data, and countries from your built-in analytics dashboard.
+    <td width="33%" valign="top">
+      <img src="./assets/icons/share.svg" alt="Sharing" width="18" />
+      <strong> Sharing</strong><br>
+      Username links, subdomains, aliases, custom embeds and QR-ready sharing.
+    </td>
+    <td width="33%" valign="top">
+      <img src="./assets/icons/analytics.svg" alt="Analytics" width="18" />
+      <strong> Analytics</strong><br>
+      Track views, clicks, devices and top countries without leaving the dashboard.
     </td>
   </tr>
 </table>
 
-## Make it personal. Keep it flexible.
+---
 
-| | What you get |
-| :-- | :-- |
-| **Multiple profiles** | Create up to **5 independent profile versions** and choose which one is live. |
-| **Layouts & portfolio** | Switch between compact bio layouts, tabbed pages, sidebars, and a project-focused portfolio. |
-| **Live widgets** | Connect your favorite platforms and display content that updates on your page. |
-| **Your own assets** | Upload fonts, images, videos, music, custom icons, and decorations. |
-| **Smart sharing** | Use `flexbio.link/yourname` or `yourname.flexbio.link`, customize link previews, and share a QR code. Aliases are available where supported. |
-| **No watermark** | Let your page represent you, without mandatory flexbio branding. |
+## A quick look inside
 
-## More tools, same dashboard.
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <img src="./assets/preview-profile.jpg" alt="Profile preview" width="100%" /><br>
+      <strong>Profile layouts</strong><br>
+      Clean bio pages, open widgets, sidebars and portfolio-style setups.
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="./assets/preview-colors.jpg" alt="Customization preview" width="100%" /><br>
+      <strong>Deep customization</strong><br>
+      Fine-tune colors, gradients and visual identity directly in the dashboard.
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="./assets/preview-analytics.jpg" alt="Analytics preview" width="100%" /><br>
+      <strong>Built-in tools</strong><br>
+      Analytics, media hosting, templates and more — all in one place.
+    </td>
+  </tr>
+</table>
 
-**[Playground](https://flexbio.link/playground)** — Experiment with layouts, colors, fonts, and effects without touching your live profile.
+---
 
-**[Templates](https://help.flexbio.link/tools/templates)** — Discover community designs, apply a look, or share your own.
+## What you get
 
-**[Image Host](https://help.flexbio.link/tools/image-host)** — Upload and organize media with built-in hosting and direct links.
+- <img src="./assets/icons/profile.svg" alt="Profiles" width="15" /> **Up to 5 independent profile versions** in one account.
+- <img src="./assets/icons/link.svg" alt="URLs" width="15" /> **Two clean ways to share:** `flexbio.link/yourname` and `yourname.flexbio.link`.
+- <img src="./assets/icons/free.svg" alt="Free" width="15" /> **No forced watermark or paid wall** for core profile customization.
+- <img src="./assets/icons/widgets.svg" alt="Widgets" width="15" /> **Live widgets** for social, music, gaming and utility content.
+- <img src="./assets/icons/palette.svg" alt="Customization" width="15" /> **Layouts, fonts, motion and media** that make each page feel personal.
 
-**[Analytics](https://help.flexbio.link/tools/analytics)** — Track how visitors discover and interact with your profile.
+Optional shop items, badges and marketplace extras stay optional — they are not required to make a fully customized profile.
 
-**[Compare features](https://flexbio.link/compare)** — Explore the current layouts, widgets, effects, and free features in detail.
+---
 
-## Your page is just a few clicks away.
+## Start in minutes
 
-1. **[Create an account](https://flexbio.link/register)** and claim a username.
-2. Add your **bio, socials, and links**.
-3. Pick a **layout** and customize the experience.
-4. Add **music, widgets, and effects** if you want.
-5. Share your page — changes are reflected on your live profile.
+1. Go to **[flexbio.link](https://flexbio.link)** and claim your username.
+2. Add your bio, socials and links.
+3. Pick a layout and style it your way.
+4. Drop in music, widgets and effects if you want.
+5. Share your page — changes go live instantly.
 
 ```text
 flexbio.link/yourname
 yourname.flexbio.link
 ```
 
+---
+
 <div align="center">
 
-### Make something that feels like you.
+## Make it feel like you.
 
-<a href="https://flexbio.link"><img alt="Get started for free" src="https://img.shields.io/badge/Get_started_for_free-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://flexbio.link"><img src="./assets/icons/arrow.svg" alt="Get started" width="14" /> Create your profile</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://help.flexbio.link">Read the docs</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://discord.gg/9uMvPApkfH">Join the community</a>
 
 <br><br>
 
-[Website](https://flexbio.link) · [Help Center](https://help.flexbio.link) · [Discord](https://discord.gg/9uMvPApkfH) · [Service Status](https://status.flexbio.link) · [Partners](https://flexbio.link/partners)
-
-<sub>Everything should be free. — flexbio.link</sub>
+**Everything should be free.**
 
 </div>
